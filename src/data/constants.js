@@ -1,6 +1,6 @@
 export const Bio = {
   name: "Sufyanur Rasheed",
-  roles: ["React Js Developer"],
+  roles: ["ReactJS Developer", "UI/UX Designer"],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/sufyan4081",
@@ -17,7 +17,7 @@ export const skills = [
     title: "Frontend",
     skills: [
       {
-        name: "React Js",
+        name: "ReactJS",
         image:
           "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
       },
@@ -26,27 +26,23 @@ export const skills = [
         image:
           "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
       },
+
       {
-        name: "Next Js",
-        image:
-          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
-      },
-      {
-        name: "HTML5",
+        name: "HTML",
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
       },
       {
-        name: "CSS3",
+        name: "CSS",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
       },
       {
-        name: "JavaScript (+ES6)",
+        name: "JavaScript",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
       },
       {
-        name: "Bootstrap5",
+        name: "Bootstrap",
         image:
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
       },
@@ -170,10 +166,10 @@ export const experiences = [
   {
     id: 0,
     img: "https://media.licdn.com/dms/image/v2/C560BAQErHZK_mY_WIA/company-logo_200_200/company-logo_200_200/0/1630398242721?e=2147483647&v=beta&t=7hKETvVOaEaajXVcL_OdaCFIeaC0YcMqKCRylQeY0P4",
-    role: "Frontend React Js Developer",
+    role: "Frontend ReactJS Developer",
     company: "T Software",
     date: "Aug 2023 - Present",
-    desc: "Developing new user-facing features using React.js. Building reusable components and front-end libraries for future use. Translating designs and wireframes into high quality code. Optimizing components for maximum performance across a vast array of web-capable devices and browsers",
+    desc: " Debugged existing application functionality and identified areas of improvement. Resolved customer issues related to software applications and developed solutions to address them. Collaborated closely with project managers, designers, and other developers to complete tasks efficiently and effectively.",
 
     skills: [
       "HTML5",
@@ -193,8 +189,8 @@ export const experiences = [
     img: "https://media.licdn.com/dms/image/v2/C4E0BAQGn8RnRvdH58Q/company-logo_200_200/company-logo_200_200/0/1648726557469?e=2147483647&v=beta&t=YWQIoP0wj4PkJ2wMLFWuZDRZHevBLIIYGm3WKJnJEow",
     role: "ReactJS Developer",
     company: "Nass Technologies",
-    date: "Jan 2022 - July 2023",
-    desc: "Designing and implementing user interface components for JavaScript-based and mobile applications using the React open-source library ecosystem. Troubleshooting interface software and debugging application codes. Created CRUD APIs with NodeJS, ExpressJS, and MongoDB. Experience in modular programming, developing reusable front-end components like headers, bodies, and footers using React.js.",
+    date: "Jun 2022 - July 2023",
+    desc: " Developed web applications using HTML, CSS, and JavaScript. Integrated third-party libraries into existing software systems. Built responsive web pages that are optimized for different devices.",
     skills: [
       "HTML5",
       "CSS3",
@@ -213,7 +209,7 @@ export const education = [
   {
     id: 0,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcbgK7MD5ABdcVzaqHXmdF9U5BYsEYMoTy0g&s",
-    school: "GH Raisoni University School of Science Nagpur",
+    school: "GH Raisoni University Saikheda.",
     date: "July 2019 - May 2022",
     grade: "86.3%",
     desc: "I completed my bachelor's degree",
@@ -223,7 +219,7 @@ export const education = [
     id: 1,
     img: "https://i.ytimg.com/vi/3533p-GUQiE/maxresdefault.jpg",
     school: "M.M. Rabbani Junior College Kamptee",
-    date: "Apr 2018 - Apr 2019",
+    date: "Jun 2018 - June 2019",
     grade: "68.15%",
     desc: "I completed my class 12 education at MMR, where I studied Science stream",
     degree: "State Board(XII)",
@@ -231,8 +227,7 @@ export const education = [
   {
     id: 1,
     img: "https://i.ytimg.com/vi/3533p-GUQiE/maxresdefault.jpg",
-    school: "M.M. Rabbani High School Kamptee",
-    date: "Apr 2016 - Apr 2017",
+    school: "Jun 2016 - Jun 2017",
     grade: "80.60%",
     desc: "I completed my class 10 education at MMR, where I studied Science stream",
     degree: "State Board(X)",
@@ -264,48 +259,11 @@ export const projects = [
     github: "https://bitbucket.org/nilaws/lms_frontend/",
     webapp: "http://app-prod.smarthought.in/",
   },
-  {
-    id: 0,
-    title: "Enrouting Careers",
-    date: "Apr 2024 - Present",
-    description:
-      " We conduct technical and non-technical events like exhibitions where they get to see their competitors they realize that its not just them who are good at it",
-    image:
-      "https://media.licdn.com/dms/image/v2/C560BAQGxXmndajRzGA/company-logo_200_200/company-logo_200_200/0/1634035615492?e=2147483647&v=beta&t=-63SiWyGqMq4fAgEm8AZR2l-pyKbADxx6z37jP5CvtM",
-    tags: [
-      "HTML5",
-      "CSS3",
-      "JavaScript",
-      "ReactJS",
-      "Redux Toolkit",
-      "MUI",
-      "Formik",
-      "React query",
-      "Axios",
-      "VCS",
-    ],
-    category: "web app",
-    github: "https://github.com/mufassilv/enrouting-main/",
-    webapp: "https://enroutingcareers.com/",
-    // member: [
-    //   {
-    //     name: "Rishav Chanda",
-    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-    //     github: "https://github.com/rishavchanda/",
-    //   },
-    //   {
-    //     name: "Upasana Chaudhuri",
-    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-    //     github: "https://github.com/upasana0710",
-    //   },
-    // ],
-  },
+
   {
     id: 1,
     title: "Geeta Shikshan Mahavidyalaya",
-    date: "July 2023 - Oct 2023",
+    date: "Jun 2023 - Jul 2023",
     description:
       "Geeta College's website is a comprehensive platform that offers. a diverse range of educational programs and opportunities for students",
     image:
@@ -329,7 +287,7 @@ export const projects = [
   {
     id: 2,
     title: "The Bakehouse",
-    date: "Nov 2023 - July 2024",
+    date: "Jun 2022 - Dec 2022",
     description:
       "The Bakehouse takes a lot of workshops- both online and offline where people of all age groups creatively learn to bake in a fun and collaborative environment",
     image:
@@ -349,5 +307,53 @@ export const projects = [
     category: "web app",
     github: "https://github.com/sufyan4081",
     webapp: "www.thebakehousebyishika.com",
+  },
+  {
+    id: 2,
+    title: "Irha Businessmen Services",
+    date: "Nov 2022 - Apr 2023",
+    description:
+      "IRHA BUSINESSMEN SERVICES An Expert Professional Firm Providing Business Setup, Banking, Accounting, Bookkeeping & Digital Branding Services in UAE.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPx-XL0IvuHfw40GGGEdfi6lnu-iK8j-FIoQ&s",
+    tags: [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "ReactJS",
+      "Redux Toolkit",
+      "Boostrap5",
+      "Formik",
+      "React query",
+      "Axios",
+      "VCS",
+    ],
+    category: "web app",
+    github: "https://github.com/sufyan4081",
+    webapp: "www.irhabiz.com",
+  },
+
+  {
+    id: 2,
+    title: "MAPEL OUTING",
+    date: "Mar 2023 - Jul 2023",
+    description:
+      "We provide the best outing experience around the city. Bring home some memorable experiences and memories that you can create while travel to new places.",
+    image: "https://mapleouting.com/image/logo/Logo.png",
+    tags: [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "ReactJS",
+      "Redux Toolkit",
+      "Boostrap5",
+      "Formik",
+      "React query",
+      "Axios",
+      "VCS",
+    ],
+    category: "web app",
+    github: "https://github.com/sufyan4081",
+    webapp: "www.mapleouting.com",
   },
 ];
