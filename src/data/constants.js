@@ -1,11 +1,11 @@
 export const Bio = {
   name: "Sufyanur Rasheed",
-  roles: ["ReactJS Developer", "UI/UX Designer"],
+  roles: ["ReactJS Developer"],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/sufyan4081",
   resume:
-    "https://drive.google.com/file/d/1lsOmme5ED2_54aZlg4nNML9bZ-CYyhT1/view?usp=sharing",
+    "https://drive.google.com/file/d/1avEKXMWzex9JcT2ZzvRo3DIdI63ZvlgR/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/sufyanur-rasheed-030413209/",
   twitter: "https://twitter.com",
   insta: "https://www.instagram.com/s__rasheed/",
@@ -184,25 +184,6 @@ export const experiences = [
       "VCS",
     ],
   },
-  {
-    id: 1,
-    img: "https://media.licdn.com/dms/image/v2/C4E0BAQGn8RnRvdH58Q/company-logo_200_200/company-logo_200_200/0/1648726557469?e=2147483647&v=beta&t=YWQIoP0wj4PkJ2wMLFWuZDRZHevBLIIYGm3WKJnJEow",
-    role: "ReactJS Developer",
-    company: "Nass Technologies",
-    date: "Jun 2022 - July 2023",
-    desc: " Developed web applications using HTML, CSS, and JavaScript. Integrated third-party libraries into existing software systems. Built responsive web pages that are optimized for different devices.",
-    skills: [
-      "HTML5",
-      "CSS3",
-      "JavaScript",
-      "Bootstrap",
-      "ReactJS",
-      "MUI",
-      "Formik",
-      "Axios",
-      "VCS",
-    ],
-  },
 ];
 
 export const education = [
@@ -242,7 +223,7 @@ export const projects = [
     description:
       "Aakarsh Career is an educational institute dedicated to helping students reach their full potential and achieve their career goals.",
     image:
-      "https://lh3.googleusercontent.com/p/AF1QipMC5WrGztZIzJOw6K771RhBoSUatIjgcq1cEsxi=s680-w680-h510",
+      "https://play-lh.googleusercontent.com/rtti3UL4rby_2NI7YA54okP0dufuvPwjTYwUiRBXO8nW8eRm84gy8hwR9N7oysbaNBNz",
     tags: [
       "HTML5",
       "CSS3",
@@ -259,101 +240,52 @@ export const projects = [
     github: "https://bitbucket.org/nilaws/lms_frontend/",
     webapp: "http://app-prod.smarthought.in/",
   },
-
   {
-    id: 1,
-    title: "Geeta Shikshan Mahavidyalaya",
-    date: "Jun 2023 - Jul 2023",
+    id: 9,
+    title: "Greenfun Foundation",
+    date: "Sep 2024 - Present",
     description:
-      "Geeta College's website is a comprehensive platform that offers. a diverse range of educational programs and opportunities for students",
+      "Greenfun Foundation is a non-profit organization that stands for Greenfun, meaning Green Fine Universal Nature. Founded & registered in April 2021 under the presidency of Young Environmental Enthusiast Mr Hanmant Dadas, who is a Young Dynamic Multi-talented man working on targets to achieve successful desired results.",
     image:
-      "https://geetacollege.org/assets/images/logo/newlogo.png?v=L33HFsJJkrFib-k9Tmt7KuN-iVN9pTgm3zYg3ZqOs4I",
+      "https://greenfun-foundation.onrender.com/static/media/logo.bff0450f5c1c20922ffc.png",
     tags: [
       "HTML5",
       "CSS3",
       "JavaScript",
       "ReactJS",
       "Redux Toolkit",
-      "Boostrap5",
+      "MUI",
       "Formik",
       "React query",
       "Axios",
       "VCS",
     ],
     category: "web app",
-    github: "https://github.com/sufyan4081",
-    webapp: "www.geetacollege.org",
+    github: "https://github.com/sufyan4081/Greenfun-Foundation.git",
+    webapp: "https://greenfun-foundation.onrender.com",
   },
   {
-    id: 2,
-    title: "The Bakehouse",
-    date: "Jun 2022 - Dec 2022",
+    id: 9,
+    title: "Greenfun Group",
+    date: "Sep 2024 - Present",
     description:
-      "The Bakehouse takes a lot of workshops- both online and offline where people of all age groups creatively learn to bake in a fun and collaborative environment",
+      "Greenfun Foundation is a non-profit organization that stands for Greenfun, meaning Green Fine Universal Nature. Founded & registered in April 2021 under the presidency of Young Environmental Enthusiast Mr Hanmant Dadas, who is a Young Dynamic Multi-talented man working on targets to achieve successful desired results.",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgPlD_e8NYxrDJKbQ46WIaZQj2BfwH6Bpo2w&s",
+      "https://greenfun-group.onrender.com/static/media/logo.c3a951fcfbc2b88e25bc.png",
     tags: [
       "HTML5",
       "CSS3",
       "JavaScript",
       "ReactJS",
       "Redux Toolkit",
-      "Boostrap5",
+      "MUI",
       "Formik",
       "React query",
       "Axios",
       "VCS",
     ],
     category: "web app",
-    github: "https://github.com/sufyan4081",
-    webapp: "www.thebakehousebyishika.com",
-  },
-  {
-    id: 2,
-    title: "Irha Businessmen Services",
-    date: "Nov 2022 - Apr 2023",
-    description:
-      "IRHA BUSINESSMEN SERVICES An Expert Professional Firm Providing Business Setup, Banking, Accounting, Bookkeeping & Digital Branding Services in UAE.",
-    image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPx-XL0IvuHfw40GGGEdfi6lnu-iK8j-FIoQ&s",
-    tags: [
-      "HTML5",
-      "CSS3",
-      "JavaScript",
-      "ReactJS",
-      "Redux Toolkit",
-      "Boostrap5",
-      "Formik",
-      "React query",
-      "Axios",
-      "VCS",
-    ],
-    category: "web app",
-    github: "https://github.com/sufyan4081",
-    webapp: "www.irhabiz.com",
-  },
-
-  {
-    id: 2,
-    title: "MAPEL OUTING",
-    date: "Mar 2023 - Jul 2023",
-    description:
-      "We provide the best outing experience around the city. Bring home some memorable experiences and memories that you can create while travel to new places.",
-    image: "https://mapleouting.com/image/logo/Logo.png",
-    tags: [
-      "HTML5",
-      "CSS3",
-      "JavaScript",
-      "ReactJS",
-      "Redux Toolkit",
-      "Boostrap5",
-      "Formik",
-      "React query",
-      "Axios",
-      "VCS",
-    ],
-    category: "web app",
-    github: "https://github.com/sufyan4081",
-    webapp: "www.mapleouting.com",
+    github: "https://github.com/sufyan4081/",
+    webapp: "https://greenfun-group.onrender.com",
   },
 ];
